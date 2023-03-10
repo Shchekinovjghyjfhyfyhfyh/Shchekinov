@@ -1,9 +1,9 @@
 ##### Как получить ветку с сервера?
--git fetch
+- git fetch
 
 ##### Как слиять одну ветку с другой?
--git merge "branch name"
+- git merge "branch name"
 
 ##### Что сделать после слияния веток?
--git push
--git log
+- git push
+- git log
